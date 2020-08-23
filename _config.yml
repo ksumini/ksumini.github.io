@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
-baseurl:
+title: 데이터 일기
+url: "https://ksumini.github.io"
+baseurl: "https://ksumini.github.io"
 google_analytics_key:
 show_full_navigation: true
 
